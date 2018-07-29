@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: fantasy;
+    background-color: #dcf2ee;
+}
+
+input {
+    font-size: 20px;
+    color: aqua;
+}
